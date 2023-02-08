@@ -1,28 +1,24 @@
 ## Versions
 
 - <a href="#1.14">v1.14</a>
-- <a href="#1.14">v1.13</a>
-- <a href="#1.14">v1.12</a>
-- <a href="#1.14">v1.11</a>
-- <a href="#1.14">v1.10</a>
-- <a href="#1.14">v1.9</a>
-- <a href="#1.14">v1.8</a>
-- <a href="#1.14">v1.7</a>
-- <a href="#1.14">v1.6</a>
-- <a href="#1.14">v1.5</a>
-- <a href="#1.14">v1.4</a>
-- <a href="#1.14">v1.3</a>
-- <a href="#1.14">v1.2</a>
-- <a href="#1.14">v1.1</a>
-- <a href="#1.14">v1.0</a>
-
-
+- <a href="#1.13">v1.13</a>
+- <a href="#1.12">v1.12</a>
+- <a href="#1.11">v1.11</a>
+- <a href="#1.10">v1.10</a>
+- <a href="#1.9">v1.9</a>
+- <a href="#1.8">v1.8</a>
+- <a href="#1.7">v1.7</a>
+- <a href="#1.6">v1.6</a>
+- <a href="#1.5">v1.5</a>
+- <a href="#1.4">v1.4</a>
+- <a href="#1.3">v1.3</a>
+- <a href="#1.2">v1.2</a>
+- <a href="#1.1">v1.1</a>
+- <a href="#1.0">v1.0</a>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>06.12.2022</span>
 </div>
-
-
 ## ✨ Digital Feeder 1.14.1 
 
 ### New Feature
