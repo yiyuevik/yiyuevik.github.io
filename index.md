@@ -1,7 +1,7 @@
 ## Versions
 
 - [1.14](#✨ Digital Feeder 1.14.0)
-- [1.13](#✨ Digital Feeder 1.13.0）
+- [1.13](#✨ Digital Feeder 1.13.0)
 - [1.12](#✨ Digital Feeder 1.12.0)
 - [1.11](#✨ Digital Feeder 1.11.0)
 - [1.10](#✨ Digital Feeder 1.10.0)
@@ -211,7 +211,7 @@
 </div>
 
 ## ✨ Digital Feeder 1.10.6 
- 
+
 ### New Feature 
 - New primitive object: hollow cylinder 
 
