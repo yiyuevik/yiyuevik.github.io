@@ -1,6 +1,6 @@
 ## Versions
 
-- [1.14](#✨ Digital Feeder 1.14.0)
+- [1.14](##✨ Digital Feeder 1.14.0)
 - [1.13](#✨ Digital Feeder 1.13.0)
 - [1.12](#✨ Digital Feeder 1.12.0)
 - [1.11](#✨ Digital Feeder 1.11.0)
@@ -15,6 +15,7 @@
 - [1.2](#✨ Digital Feeder 1.2.0)
 - [1.1](#✨ Digital Feeder 1.1.0)
 - [1.0](#✨ Digital Feeder 1.0.0)
+
 
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
