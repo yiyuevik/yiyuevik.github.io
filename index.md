@@ -43,7 +43,7 @@
 - Video recording: record video at real speed from 3D view.
 - Reservation: set a simulation timer, reserved actions will be executed automatically after timeout. Actions can be: save `.dfsx` file, send notification via Telegram Bot, record screen and shut down computer.
 
-<p>''</p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>06.12.2022</span>
@@ -57,7 +57,7 @@
 - Larger upper limit for dynamic force for compressed air.
 - Resized simulation speed slider and properties dialog window.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>30.09.2022</span>
@@ -71,7 +71,7 @@
 ### 🔧Fix
 - Treeview could not display the loaded objects properly when loading a corrupt dfs file.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>25.09.2022</span>
@@ -82,7 +82,7 @@
 ### ✨New Feature
 - Feeding parameters for vibration.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>25.08.2022</span>
@@ -100,7 +100,7 @@
 ### 🔧Fix
 - Crash sometimes when resetting scene, which contains equipment and analyser/compressed air/sink.
 
- <p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>15.07.2022</span>
@@ -111,7 +111,7 @@
 ### 🔧Fix
 - Crash when changing simplification of an object and then moving it.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>08.07.2022</span>
@@ -122,7 +122,7 @@
 ### ✨New Feature
 - Jammed objects detection: The dynamic objects (feeding parts), which get stuck in tooling or with each other, can be detected now. The detected object can be removed directly or marked in color.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>01.07.2022</span>
@@ -137,7 +137,7 @@
 - Margin value of custom object couldn't be loaded properly.
 - COM shift for BSA caused freezing.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>17.06.2022</span>
@@ -155,7 +155,7 @@
 ### 🔧Fix
 - Sink timer couldn't be saved properly.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>08.06.2022</span>
@@ -166,7 +166,7 @@
 ### 🔧Fix
 - Bug with conical frustum.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>27.05.2022</span>
@@ -177,7 +177,7 @@
 ### ✨New Feature
 - New animated loading indicator.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>12.05.2022</span>
@@ -188,7 +188,7 @@
 ### 🔧Fix
 - Fixed: Could not display axes on some computer.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>09.05.2022</span>
@@ -199,7 +199,7 @@
 ### ✨New Feature
 - Kinematic rotation.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>01.05.2022</span>
@@ -210,7 +210,7 @@
 ### 🔧Fix
 - Fixed: waiting window didn't close sometimes after `.stl` file was loaded.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>29.04.2022</span>
@@ -230,7 +230,7 @@
 - Fixed: waiting window could be closed by pressing <kbd>Esc</kbd> key.
 - Fixed: waiting window appeared after clicking **Cancel** button in loading `.stl` dialog.
 
-<p></p>
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>19.04.2022</span>
@@ -241,7 +241,7 @@
 ### 🔧Fix
 - Fixed: sink causes freezing.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>08.04.2022</span>
@@ -262,7 +262,7 @@
 - Fixed: compressed air could not effect hollow cylinder.
 - Fixed: could not display whole main window on some monitors because of large window height.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>22.03.2022</span>
@@ -273,7 +273,7 @@
 ### ✨New Feature 
 - New primitive object: hollow cylinder.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>08.03.2022</span>
@@ -287,7 +287,7 @@
 - Equipment library.
 - Show loaded dfs file on status bar.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>23.02.2022</span>
@@ -307,7 +307,7 @@
 - Animated camera movement.
 - Adjusted upper limit of camera look speed slider.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>14.02.2022</span>
@@ -325,7 +325,7 @@
 ### 🔧Fix
 - Fixed: duplicated kinematic object does not move properly because of wrong neutral position and angle.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>04.02.2022</span>
@@ -336,7 +336,7 @@
 ### 🔧Fix
 - Fixed: analyser status window caused freezing.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>03.02.2022</span>
@@ -351,7 +351,7 @@
 ### 🚀Improvement
 - More obvious outline.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>27.01.2022</span>
@@ -372,7 +372,7 @@
 - Fixed: camera moved to distant position while pressing <kbd>ESC</kbd> button.
 - Fixed: sink was shown in a wrong position after being resized.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>10.12.2021</span>
@@ -386,7 +386,7 @@
 ### 🚀Improvement
 - Always display coordinate values inside the chart in analyser status window.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>06.12.2021</span>
@@ -397,7 +397,7 @@
 - Fixed: crash when deselecting objects in object list in version 1.9.0-1.9.2.
 - Fixed: crash when running on specific computers.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>23.11.2021</span>
@@ -413,7 +413,7 @@
 ### 🔧Fix
 - Fixed: crash when moving/rotating a source with 3D manipulator, if the source was converted from an object.
 
-
+<p>&nbsp;</p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>18.11.2021</span>
