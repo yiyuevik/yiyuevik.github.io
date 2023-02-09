@@ -19,7 +19,15 @@
 - History log files missing in dfsx file.
 - A dfs/dfsx file could not be loaded properly sometimes when restarting the Digital Feeder immediately after closing it.
 
-<p></p>
+
+
+
+
+
+
+
+
+
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>t.b.a</span>
@@ -35,7 +43,7 @@
 - Video recording: record video at real speed from 3D view.
 - Reservation: set a simulation timer, reserved actions will be executed automatically after timeout. Actions can be: save `.dfsx` file, send notification via Telegram Bot, record screen and shut down computer.
 
-<p></p>
+<p> </p>
 
 <div style="color: #fff;background-color: #50c019;display: inline-block;font-size: 0.9rem;font-weight: 400;border-radius: 8px;padding: 0.3em 0.6em;margin: 0;">
   <span>06.12.2022</span>
